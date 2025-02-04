@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int code
+    int no
     scanf("%d",&no);
     printf("You entered: %d", no);
     return 0;
