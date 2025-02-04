@@ -2,8 +2,8 @@
 
 int main(){
     int great;
-    printf("Print the entered float");
+    printf("");
     scanf("%d",&great);
-    printf("You entered:&d",great);
+    printf("You entered: &.2f",great);
     return 0;
 }
