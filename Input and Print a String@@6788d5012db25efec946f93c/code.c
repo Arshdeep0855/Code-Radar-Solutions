@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 char main() {
     char code;
     scanf("%char",&code);
