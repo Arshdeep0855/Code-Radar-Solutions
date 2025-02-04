@@ -3,6 +3,6 @@
 char main() {
     char code;
     scanf("%char",&code);
-    printf("You entered: %s",code);
+    printf("You entered: %D",code);
     return 0;
 }
