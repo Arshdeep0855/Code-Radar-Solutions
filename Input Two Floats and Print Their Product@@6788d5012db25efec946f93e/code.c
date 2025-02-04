@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+float main() {
     float A,B;
     scanf("%f","%f",A,B);
     printf("Product: %f", A*B);
