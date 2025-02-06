@@ -8,7 +8,7 @@ int main() {
     }
     else
     {
-        printf("False");
+        printf("Odd");
     }
     // printf("%s", welcome());
     return 0;
