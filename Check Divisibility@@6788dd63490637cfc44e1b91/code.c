@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main {
-    int A;
+    int A ;
     scanf("%d ",&A);
-    if (A % 5 == 0 && A % 11 == 0)
+    if 
+    (A % 5 == 0 )
     {
         printf("Divisible");
     }
