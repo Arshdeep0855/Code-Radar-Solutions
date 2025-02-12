@@ -5,4 +5,7 @@ int main(){
     if (isupper(c)){
         printf("Uppercase");
     }
+    else{
+        printf("Lowercase")
+    }
 }
