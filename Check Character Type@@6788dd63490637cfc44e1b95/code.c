@@ -4,8 +4,10 @@
 int main(){
     char ch;
     scanf("%c", &ch);
+
+
     if (isalpha(ch)){
-        if (a=="a" || a=="e" || a=='i' || a=="o" || a=="u" ||a=="A" || a=="E" || a=='I' || a=="O" || a=="U"){
+        if (ch=="a" || ch=="e" || ch=='i' || ch=="o" || ch=="u" || ch=="A" || ch=="E" || ch=='I' || ch=="O" || ch=="U"){
             printf("Vowel");
         }
         else {
