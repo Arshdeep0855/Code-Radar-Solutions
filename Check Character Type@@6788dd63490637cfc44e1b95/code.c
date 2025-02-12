@@ -2,9 +2,9 @@
 #include <ctype.h>
 
 int main(){
-    char a;
-    scanf("%c", &a);
-    if (isalpha(a)){
+    char ch;
+    scanf("%c", &ch);
+    if (isalpha(ch)){
         if (
             a=="a" || a=="e" || a=='i' || a=="o" || a=="u" ||
             a=="A" || a=="E" || a=='I' || a=="O" || a=="U"
