@@ -12,5 +12,8 @@ int main(){
                 printf("Consonant");
             }
     }
+    else if (isdigit(ch)){
+        printf("digit");
+    }
     return 0;
 }
